@@ -1,0 +1,16 @@
+{
+  "name": "primes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primes.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "jest": "^22.4.2"
+  }
+}
